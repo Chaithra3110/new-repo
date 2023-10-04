@@ -1,3 +1,2 @@
 echo "this is the inintial conent." > myfile.txt
 echo"upadted"
-this changes should be reverted" >> myfile.txt
